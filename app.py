@@ -20,5 +20,4 @@ if submit:
         st.success('Review Tích cực')
     else:
         st.warning('Review Tiêu cực')
-    st.balloons()
 
